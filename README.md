@@ -1,4 +1,4 @@
-# postcss-stats-reporter
+# postcss-stats-reporter [![Build Status](https://travis-ci.org/jeffjewiss/postcss-stats-reporter.svg?branch=master)](https://travis-ci.org/jeffjewiss/postcss-stats-reporter)
 
 Print your stats from `cssstats` as a plugin (no additional build code required).
 
