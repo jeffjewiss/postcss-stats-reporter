@@ -1,0 +1,40 @@
+{
+  "name": "postcss-stats-reporter",
+  "version": "0.0.0",
+  "description": "Log CSS stats to the console.",
+  "main": "index.js",
+  "scripts": {
+    "test": "standard"
+  },
+  "files": [
+    "index.js",
+    "lib"
+  ],
+  "repository": "https://github.com/jeffjewiss/postcss-stats-reporter.git",
+  "keywords": [
+    "postcss",
+    "css",
+    "reporter",
+    "stats"
+  ],
+  "author": {
+    "name": "Jeff",
+    "email": "jeff@jeffjewiss.com",
+    "url": "https://jeffjewiss.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jeffjewiss/postcss-stats-reporter/issues"
+  },
+  "homepage": "https://github.com/jeffjewiss/postcss-stats-reporter#readme",
+  "devDependencies": {
+    "standard": "^5.4.1"
+  },
+  "dependencies": {
+    "chalk": "^1.0.0",
+    "filesize": "^3.1.5",
+    "lodash": "^3.10.1",
+    "log-symbols": "^1.0.2",
+    "postcss": "^5.0.0"
+  }
+}
