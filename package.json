@@ -1,6 +1,6 @@
 {
   "name": "postcss-stats-reporter",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Log CSS stats to the console.",
   "main": "index.js",
   "scripts": {
