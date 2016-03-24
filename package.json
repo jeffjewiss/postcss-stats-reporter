@@ -28,12 +28,12 @@
   },
   "homepage": "https://github.com/jeffjewiss/postcss-stats-reporter#readme",
   "devDependencies": {
-    "standard": "^5.4.1"
+    "standard": "^6.0.8"
   },
   "dependencies": {
     "chalk": "^1.0.0",
     "filesize": "^3.1.5",
-    "lodash": "^3.10.1",
+    "lodash": "^4.6.1",
     "log-symbols": "^1.0.2",
     "postcss": "^5.0.0"
   }
