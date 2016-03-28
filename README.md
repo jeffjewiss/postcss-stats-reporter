@@ -2,14 +2,16 @@
 
 Print your stats from `cssstats` as a plugin (no additional build code required).
 
-## Installation
+Installation
+------------
 
 ```
 npm install postcss-stats-reporter
 ```
 
 
-## Usage
+Usage
+-----
 
 Just drop this plugin in after the `cssstats` postcss plugin:
 
@@ -19,3 +21,8 @@ postcss([
   statsReporter()
 ])
 ```
+
+Example Output
+--------------
+
+<img width=250 src="./example.png">
