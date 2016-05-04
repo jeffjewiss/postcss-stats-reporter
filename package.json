@@ -28,7 +28,7 @@
   },
   "homepage": "https://github.com/jeffjewiss/postcss-stats-reporter#readme",
   "devDependencies": {
-    "standard": "^6.0.8"
+    "standard": "^7.0.1"
   },
   "dependencies": {
     "chalk": "^1.0.0",
