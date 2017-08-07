@@ -31,7 +31,7 @@
     "standard": "^10.0.0"
   },
   "dependencies": {
-    "chalk": "2.0.1",
+    "chalk": "2.1.0",
     "filesize": "3.5.7",
     "log-symbols": "2.0.0",
     "postcss": "6.0.8"
