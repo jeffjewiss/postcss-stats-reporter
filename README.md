@@ -2,7 +2,6 @@
 
 [![Travis Build Status][travis-img]][travis-url]
 [![npm version][npm-img]][npm-url]
-[![bitHound Overall Score][bithound-img]][bithound-url]
 
 Print your stats from `cssstats` as a plugin (no additional build code required).
 
@@ -35,5 +34,3 @@ Example Output
 [travis-url]: https://travis-ci.org/jeffjewiss/postcss-stats-reporter
 [npm-img]: https://badge.fury.io/js/postcss-stats-reporter.svg
 [npm-url]: http://badge.fury.io/js/postcss-stats-reporter
-[bitHound-img]: https://www.bithound.io/github/jeffjewiss/postcss-stats-reporter/badges/score.svg
-[bitHound-url]: https://www.bithound.io/github/jeffjewiss/postcss-stats-reporter<Paste>
