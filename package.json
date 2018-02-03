@@ -43,7 +43,7 @@
   },
   "dependencies": {
     "chalk": "2.2.2",
-    "filesize": "3.5.11",
+    "filesize": "3.6.0",
     "log-symbols": "2.2.0",
     "postcss": "6.0.17"
   }
