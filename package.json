@@ -42,7 +42,7 @@
     "node": ">=4.0.0"
   },
   "dependencies": {
-    "chalk": "2.3.1",
+    "chalk": "2.3.2",
     "filesize": "3.6.0",
     "log-symbols": "2.2.0",
     "postcss": "6.0.19"
