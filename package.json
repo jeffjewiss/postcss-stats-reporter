@@ -45,6 +45,6 @@
     "chalk": "2.3.2",
     "filesize": "3.6.0",
     "log-symbols": "2.2.0",
-    "postcss": "6.0.19"
+    "postcss": "6.0.20"
   }
 }
