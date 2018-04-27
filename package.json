@@ -42,8 +42,8 @@
     "node": ">=4.0.0"
   },
   "dependencies": {
-    "filesize": "3.6.1",
-    "log-symbols": "2.2.0",
-    "postcss": "6.0.21"
+    "filesize": "^3.6.1",
+    "log-symbols": "^2.2.0",
+    "postcss": "^6.0.21"
   }
 }
