@@ -28,7 +28,7 @@
   },
   "homepage": "https://github.com/jeffjewiss/postcss-stats-reporter#readme",
   "devDependencies": {
-    "eslint": "^5.0",
+    "eslint": "^6.4",
     "eslint-config-standard": "^12.0.0",
     "eslint-plugin-import": "^2.6.0",
     "eslint-plugin-node": "^8.0.0",
