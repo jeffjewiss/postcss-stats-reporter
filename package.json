@@ -42,7 +42,7 @@
     "node": ">=4.0.0"
   },
   "dependencies": {
-    "filesize": "^4.0.0",
+    "filesize": "^5.0.3",
     "log-symbols": "^2.2.0",
     "postcss": "^7.0.0"
   }
