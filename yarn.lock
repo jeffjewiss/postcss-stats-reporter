@@ -389,8 +389,8 @@ file-entry-cache@^5.0.1:
     flat-cache "^2.0.1"
 
 filesize@^6.0.0:
-  version "6.0.0"
-  resolved "https://registry.yarnpkg.com/filesize/-/filesize-6.0.0.tgz#c94523a913edd92773780c7f739bd97e9c03c95e"
+  version "6.1.0"
+  resolved "https://registry.yarnpkg.com/filesize/-/filesize-6.1.0.tgz#e81bdaa780e2451d714d71c0d7a4f3238d37ad00"
 
 find-up@^2.0.0, find-up@^2.1.0:
   version "2.1.0"
