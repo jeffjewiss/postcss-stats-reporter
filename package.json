@@ -43,7 +43,7 @@
   },
   "dependencies": {
     "filesize": "^6.0.0",
-    "log-symbols": "^2.2.0",
+    "log-symbols": "^4.0.0",
     "postcss": "^7.0.0"
   }
 }
