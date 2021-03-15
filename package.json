@@ -44,6 +44,6 @@
   "dependencies": {
     "filesize": "^6.0.0",
     "log-symbols": "^4.0.0",
-    "postcss": "^7.0.0"
+    "postcss": "^8.2.8"
   }
 }
